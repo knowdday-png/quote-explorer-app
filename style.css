@@ -1,0 +1,16 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+#quote-box {
+	min-height: 150px;
+}
+
+.list-group-item {
+	font-style: italic;
+}
+
+.list-container {
+    max-height: 300px;
+    overflow-y: auto;
+}
